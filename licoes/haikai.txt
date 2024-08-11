@@ -1,0 +1,4 @@
+Console.WriteLine("   amar é um elo");
+Console.WriteLine("   entre o azul");
+Console.WriteLine("   e o amarelo");
+Console.WriteLine("      Paulo Leminski");

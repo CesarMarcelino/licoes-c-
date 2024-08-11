@@ -1,0 +1,5 @@
+Console.WriteLine("-Joãozinho, precisa regar as plantas lá no quintal. Preste atenção quando ferver o leite, hein?");
+Console.WriteLine("Claro, mamãe.");
+Console.WriteLine("O leite ferveu e o chão da cozinha ficou todo molhado. Quando a mãe voltou, não acreditou no que viu.");
+Console.WriteLine("- Mas, Joãozinho, eu te pedi para prestar atenção quando fervesse o leite.");
+Console.WriteLine("- E eu prestei. Eram exatamente 10:35.");
