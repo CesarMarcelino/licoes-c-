@@ -12,3 +12,4 @@ C:\Users\Cesar\Documents\psi\etec\obj\Debug\net8.0\refint\etec.dll
 C:\Users\Cesar\Documents\psi\etec\obj\Debug\net8.0\etec.pdb
 C:\Users\Cesar\Documents\psi\etec\obj\Debug\net8.0\etec.genruntimeconfig.cache
 C:\Users\Cesar\Documents\psi\etec\obj\Debug\net8.0\ref\etec.dll
+C:\Users\Cesar\Documents\psi\etec\obj\Debug\net8.0\etec.sourcelink.json
