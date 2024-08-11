@@ -1,0 +1,7 @@
+Console.WriteLine("As cidades do litoral sul de São Paulo sao:");
+Console.WriteLine();
+Console.WriteLine("Praia Grande");
+Console.WriteLine("Mongaguá");
+Console.WriteLine("Itanhém");
+Console.WriteLine("Peruíbe");
+Console.WriteLine("Ilha Comprida");
