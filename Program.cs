@@ -1,25 +1,9 @@
-﻿Console.WriteLine("   um");
-Console.WriteLine("    movi");
-Console.WriteLine("    mento");
-Console.WriteLine("  compondo");
-Console.WriteLine(" além");
-Console.WriteLine("       da");
-Console.WriteLine("nuvem");
-Console.WriteLine("   um");
-Console.WriteLine("  campo");
-Console.WriteLine("     de");
-Console.WriteLine("  combate");
-Console.WriteLine();
-Console.WriteLine("    mira");
-Console.WriteLine("  gem");
-Console.WriteLine("     ira");
-Console.WriteLine("        de");
-Console.WriteLine("   um");
-Console.WriteLine("     horizante");
-Console.WriteLine("puro");
-Console.WriteLine("  num");
-Console.WriteLine("    mo");
-Console.WriteLine("    mento");
-Console.WriteLine("vivo");
-Console.WriteLine();
-Console.WriteLine("         Décio Pignatari-1959");
+﻿Console.WriteLine("Preparar...");
+Thread.Sleep(1000);
+
+Console.WriteLine("Apontar...");
+Thread.Sleep(1000);
+
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("Fogo!!!");
+Console.ResetColor();
